@@ -51,6 +51,11 @@ b_values = [
     "d2c324d0723f69d6d2c98ec",
     "0ca32480813ab749cg016f04",
     "de1326c0813ab9641g0144d7",
+    "5b532b1071d8ceb95b5cdeb",
+    "bd8323b0715d9698bd82831",
+    "8b9329607186dc198b9bdab",
+    "50c32b70813ab8d2fg014d8a",
+    "659320e0813ab990eg01339d",
 ]
 
 random_b_value = random.choice(b_values)
